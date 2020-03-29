@@ -1,252 +1,252 @@
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "532607e1818eafc11a001cb1a40eae48d6cb6ba0"
+git-tree-sha1 = "d33fbb984afeca62a92bcd3ca1aa68397d636b31"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "4cf1af9cbea8e8c6a29508c2e42fd46592f6398846fbdf79f9932ad85d5ef3ff"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "e4f0088ad817cafd37db47a30176ae0aee523d1146adbc210a3ee9825da08779"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[NOMAD]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "da12b4560859085b82c1f8d80ed7d4f358db6dbf"
+git-tree-sha1 = "725250e6d9210029e234dcdb11d81c87f1abebb1"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "8bf70bafeb9dcc141647aea5c886643250e106a91170bc01075d96d12eb7a4b5"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "8a1f2347d22933b959bde0caa1bce11e9c65caad1d9254934b3270e2e080654b"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[NOMAD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1eb5d21c815c81ae52119cea828e09034ea741f9"
+git-tree-sha1 = "74e984f7713667cf74f41b9313133039e18e3788"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "f5c5bbb4f142e4707c82d34023067a9385214a800f6aedbf803881cf15ccacf0"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "63d8150dd608539c41bcc871bcd846c34877af03e32ad07fdca420565b13317f"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.i686-linux-gnu-cxx03.tar.gz"
 [[NOMAD]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d3ac2381f3c7aa379ec8c82b244f2c6571c4af0"
+git-tree-sha1 = "13aa6cba45447d0cb128510cfe2ece2ff84a095e"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "350a94b8dbd50921da663c8139c1ba51e48fd6394214b48877992b8fe875732f"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "43fb1b23f4dca2c18aa4c80ef6803fc5de12ee8d65603aeb5ccabff669f5d0eb"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a59094539e962c3912d105bd1bffb1ad1481ab22"
+git-tree-sha1 = "f43013792515970a586d74c7a407b182ea558a58"
 os = "macos"
 
     [[NOMAD.download]]
-    sha256 = "c87157ee873e67790554db653d0cea87c55a21286bf19d288757dfa22126a181"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "0bf08266a529c77de59e42d4eb0088f77893b809705c6f104e962292bc5ecbe9"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-apple-darwin14-cxx03.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "271b16245a90424cf3f2bfed20d4dab60d5bcf71"
+git-tree-sha1 = "1a4bfd00221a9492c087a8e29623e03a6ad83b60"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "0908f7605341f9cc697b69da7b680535b9f32a76ce18e2a0d069b78876a67507"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "60e00e30ad39c1522bf85a6b03b19c9a1028635dc5069cf28ffa0a1ded133ddd"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "806429524ba1f535d6bdae0a4f1fe526425be67c"
+git-tree-sha1 = "a6ae65fefd879cf36344b677609797990127b897"
 os = "windows"
 
     [[NOMAD.download]]
-    sha256 = "fff78264dcbb902bb665d73cc690d23aa93e5341bda0fbe7f37ab0dd9b7f87b6"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "ab704b7cb12658e810d9b358eab7f7371dddf844bbecfb2a4185cc6a33aa7d2a"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[NOMAD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8a14e90f591b53da28457c286fd4858599ec1adc"
+git-tree-sha1 = "b7b24160c7104868702fc9d232541999d414857a"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "c3195ae36294faeb8f771b7b04e341ff157a8c246e8301f13f24544d936a3d86"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "190ffc41f1dceac78eae9e34928f8e06f45da303324bc0caefd97c0b95f9c6ee"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[NOMAD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "233f8af468f67805c76b57075d8a674f59ba1be9"
+git-tree-sha1 = "57f1ac66554349b2f9e658152d96929860e3243d"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "960f144e4a05365b6aece4cb740db0b2fa8d177d4ff5611c68275cdd7bf0f406"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "ff0c3de0ba0e4743d0811e00e4d161e7aafa7165ee4e0c23dc21b1856653c1b1"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf59da584d87b372f0bb3d97c21f298d153dd469"
+git-tree-sha1 = "784943bf33f73299f85af7553f9150a28e38a673"
 os = "macos"
 
     [[NOMAD.download]]
-    sha256 = "5f737c12b6c6909741e90d43ca2471ac0a98d998472757ec87f9f0fb48dbe4a2"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "4744ab887daaaec687e7df9fb3f836e4e6f83ee12e454559266f7865ff9c4f55"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-apple-darwin14-cxx11.tar.gz"
 [[NOMAD]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3601a813068f7f90437e05392da931c43e8ea685"
+git-tree-sha1 = "769251958bdb3686aa1268eca1b677f114a72e6a"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "3c3f9ec68c5427f8aef5314c42154526fab5c3f14864ae62ce12dc633aa1f2c3"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9798ded8245f0c4c47af87cd17b31f3b501a2399d7ea018b32a7b4c76c85a0c6"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[NOMAD]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95df8dde4fda057cec8c46fb9b4ac8c5179bbc96"
+git-tree-sha1 = "158c99887d2f4bc03cca034afa6181027272d97e"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "727b81563a7ac92b3d3604bc0f7183aca903f94fc05bf3948db4171e5eb5799c"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a865af35af5b3b33f086ffd728625a6f2833dea0612af8733110ec095f386954"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7308a096a2142503a4c4f963206b0d4f2791302a"
+git-tree-sha1 = "1273fd4d7ceb6f063fde0e7854f2df907b32e92b"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "5ba843ae3ed9504529597d388f03b32b44c4e26afff838c206142346fcebc680"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "41dae918c4737b85375d546c24a7d62b59679d45c615e65b78dcfb6d94bed077"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6e8306c537a32415fae90bc573884718ee7053a2"
+git-tree-sha1 = "19ff5a1cc3767205a77fb9fdf8d887d3643495ea"
 os = "freebsd"
 
     [[NOMAD.download]]
-    sha256 = "04154892708a1a8e8cd62c3081e89397c7dfd040d4194ec7ef66f02bbf334d3c"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+    sha256 = "72c5ea98134d27723f426823b97704c83e59cc16b533c8bb091b9b61ed75d7dd"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
 [[NOMAD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "542eda3189d2aa3ff965f1860e367e9085872c7d"
+git-tree-sha1 = "b9db31dccdfe4c8ea9226effe6364f2daf31bcd5"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "6935b7df2ce7394bcdbd269c251ee7ddc99eeba4c574be663eb581df569acba3"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "55d9e90ad3e223382ba8a72cf4131c1ecd343337c6990f3ab8515a91331679fe"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.i686-linux-musl-cxx03.tar.gz"
 [[NOMAD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5be92d2da6abb23d62beb60b73f80bd1454cde7b"
+git-tree-sha1 = "479baf124cd678ecd8eaf42043726903a7ed750d"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "f88b684ce491769e57002d26481c599e2d21113eebd8b553a16be3ed5c0bbc0a"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "9ca5e7930011fb2417f5dbd2120dd79f9190dacf0d0880331ee51cd8856aa8fb"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[NOMAD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "650a61d04fc32c6776f5e590edbfbbb0b46ff691"
+git-tree-sha1 = "fb83b5dabe20fde4b2fd06ddd8faeb910b833153"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "3c272576b8f2d5e9f5c161cbe1856bd89098efb338d421f27a5a682e42d858c3"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "c0351aa99c11f9bd3efb786dbf09fbee73db2dbb237eecc6da8f10f8807bbf4c"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.i686-linux-musl-cxx11.tar.gz"
 [[NOMAD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f617fc0ceb5522c8e66f11957173ce8e47b7b43a"
+git-tree-sha1 = "bdb4ed3c16ff3c13255ec314756522c56d3483af"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "1dd2ecaaf91772410be4268e8073412d3c52d07b28844a3601217332155e73df"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "1b0f265e04103f29bf57491916fd8f4e088716eacbf6b3705ecd9713a808b7c4"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[NOMAD]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "97bfd782e7e79a249badce2a1b0db32b36265d82"
+git-tree-sha1 = "5a6b905613cc51ee1a9e592aeaef6ab42b782c40"
 libc = "musl"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "ac0d60ba6511b7422bf939ee0cd5a227fa6215a5a2fca7fb64144865310a4f47"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "9ec34db8c111e835e84ab44dd7f4e857fa67835c66ed863d12f4e7768bbd1ff4"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "008dd0dfbec802d0c282499bb88e428e4b794d8c"
+git-tree-sha1 = "18e9a1ddd4ffe260c9ea25c1cdfd64689606ddce"
 os = "windows"
 
     [[NOMAD.download]]
-    sha256 = "384898b2cded9a2c790d1c714df6edb9e5b1f37adffbdcba8321cca5b218e998"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "283f6669f129f0542346a3e020e82dfb648c96d8ed04b5bed55a1910fa9052c8"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "343c25c6a41dd912c511d7456b92414dd2210bd8"
+git-tree-sha1 = "df754bfc379cd5abaa300ed164291d26cd1450ab"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "47d64dcf81c29fe23d720359e5d73e366cda8409e74103caa583cc51aea23567"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "b6ad578ed82a961068ef2079f8c931325047718779500232431184862306538d"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[NOMAD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "deefd32f52f6863c9a4301663a67c284aedd68eb"
+git-tree-sha1 = "be1178db050305429f9bc144b480835f9f72a540"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "35e7f70fe2ee4c1a41a54634b3d5731b47988f9daf42edc3b887d6f356d2e26c"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "2351d5cca660cccef356f25eddb98a54df30563035b46a9fde131c1c39ffa28f"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[NOMAD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bedce4c5abca2218271f0e6c5604ae06510476a2"
+git-tree-sha1 = "7e5937bde10c6599281eef3945632e07313c4aab"
 os = "freebsd"
 
     [[NOMAD.download]]
-    sha256 = "6717f6c52278fe9c9bb398a8646736d40b3678b622f0116f2a1221879abad9d6"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+    sha256 = "0ff79ec05cf5742deab15de4639257214c38b930c94a968639bce4760eba67f2"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
 [[NOMAD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4866f2cc8c79d5dbf84488d3182f4649d18647fe"
+git-tree-sha1 = "e782fcb49949334a578a6c704f92e20703ec61f9"
 os = "windows"
 
     [[NOMAD.download]]
-    sha256 = "eea1367c0c87668427bfb752852287cafbfce353b7be35ca75897f3ce42d4715"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "285614a972b7cb3b384bd72d6dfc7305d42fb9ea7b39d7542767f2c2dd35b0ba"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.i686-w64-mingw32-cxx03.tar.gz"
 [[NOMAD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a647e1ae095d4204d1f345e1784c49b94b6d6fe5"
+git-tree-sha1 = "3d855d21bd317819a1e8c7616996946d7efdba9e"
 os = "windows"
 
     [[NOMAD.download]]
-    sha256 = "7dbb7fcb0ea891d2002ba8a25e99c984162aafe5f8dff68b063b9435093d15b2"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "928a012dc9a3a80002464817b8ec7e3c409e660a068a376b3deddb17f69851d0"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.i686-w64-mingw32-cxx11.tar.gz"
 [[NOMAD]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "07147bf6fe6cf4c2306458467d10578998fcc39e"
+git-tree-sha1 = "0da5896e1f97390cee2deb9cb7a28f1f39a0d71e"
 libc = "glibc"
 os = "linux"
 
     [[NOMAD.download]]
-    sha256 = "1e710ee896c2ac57dc1b898a71b17dd22bde6012c1cdba1a84556b8bf96a75fa"
-    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+2/NOMAD.v4.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "37c15342c986aa9c9661484d7cf1dee74bf503b6900ef5ddcd8a9acc5180a53f"
+    url = "https://github.com/JuliaBinaryWrappers/NOMAD_jll.jl/releases/download/NOMAD-v4.0.0+3/NOMAD.v4.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
