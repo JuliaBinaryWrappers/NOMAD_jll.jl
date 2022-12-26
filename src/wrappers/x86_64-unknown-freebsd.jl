@@ -3,11 +3,11 @@ export libnomadAlgos, libnomadCInterface, libnomadEval, libnomadUtils, libsgteli
 
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("NOMAD")
-JLLWrappers.@declare_library_product(libnomadAlgos, "libnomadAlgos.so")
+JLLWrappers.@declare_library_product(libnomadAlgos, "libnomadAlgos.so.4.3")
 JLLWrappers.@declare_library_product(libnomadCInterface, "libnomadCInterface.so")
-JLLWrappers.@declare_library_product(libnomadEval, "libnomadEval.so")
-JLLWrappers.@declare_library_product(libnomadUtils, "libnomadUtils.so")
-JLLWrappers.@declare_library_product(libsgtelib, "libsgtelib.so")
+JLLWrappers.@declare_library_product(libnomadEval, "libnomadEval.so.4.3")
+JLLWrappers.@declare_library_product(libnomadUtils, "libnomadUtils.so.4.3")
+JLLWrappers.@declare_library_product(libsgtelib, "libsgtelib.so.2.0")
 JLLWrappers.@declare_executable_product(nomad)
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
