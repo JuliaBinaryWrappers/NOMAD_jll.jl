@@ -3,8 +3,8 @@ export libnomadAlgos, libnomadCInterface, libnomadEval, libnomadUtils, libsgteli
 
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("NOMAD")
-JLLWrappers.@declare_library_product(libnomadAlgos, "@rpath/libnomadAlgos.dylib")
 JLLWrappers.@declare_library_product(libnomadCInterface, "@rpath/libnomadCInterface.dylib")
+JLLWrappers.@declare_library_product(libnomadAlgos, "@rpath/libnomadAlgos.dylib")
 JLLWrappers.@declare_library_product(libnomadEval, "@rpath/libnomadEval.dylib")
 JLLWrappers.@declare_library_product(libnomadUtils, "@rpath/libnomadUtils.dylib")
 JLLWrappers.@declare_library_product(libsgtelib, "@rpath/libsgtelib.dylib")
@@ -12,14 +12,14 @@ JLLWrappers.@declare_executable_product(nomad)
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
-        libnomadAlgos,
-        "lib/libnomadAlgos.dylib",
+        libnomadCInterface,
+        "lib/libnomadCInterface.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
-        libnomadCInterface,
-        "lib/libnomadCInterface.dylib",
+        libnomadAlgos,
+        "lib/libnomadAlgos.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
